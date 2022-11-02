@@ -1,3 +1,3 @@
 # breakout
 breakout game
-https://github.com/MShezaad/breakout.git
+https://mshezaad.github.io/breakout/
